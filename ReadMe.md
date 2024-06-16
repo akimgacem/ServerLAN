@@ -1,4 +1,4 @@
-# Snookicker-Server
+# Server for LAN
 _custom server for snookicker in nodejs, LAN mode_
 
 ## Configuration du projet
